@@ -21,7 +21,7 @@ Contributing towards DockerLabs is simple and all you need is follow the below g
 
 * Say "Hi" to all Slack members with your short introduction
 * Search for your favourite Slack Channel and join accordingly.
-* Fork this Repository - hhttps://github.com/meetupgpsolapur/Meetup-Gpsolapur/
+* Fork this Repository - https://github.com/meetupgpsolapur/Meetup-Gpsolapur/
 * Find your area of interest.
 
 *  Create Pull Request
