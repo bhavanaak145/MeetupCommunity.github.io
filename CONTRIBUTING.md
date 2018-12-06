@@ -5,7 +5,7 @@
 
 There are 5 golden steps to get involved - 
 
-- [Slack](https://meetupgpsolapur.slack.com) is the best place to keep up to date with the project and to get help contributing. Here we exchange ideas, ask questions and chat about Dockerlabs.
+- [Slack](https://meetupgpsolapur.slack.com) is the best place to keep up to date with the project and to get help contributing. Here we exchange ideas, ask questions and chat about meetupgpsolapur repo.
 
 - Ping [Sangam Biradar](https://github.com/sangam14) with your email address so that an invite can be sent out. Once invite is received via email, click on the link to get connected to contributors, enthusiast and active community members.
 
