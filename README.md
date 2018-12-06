@@ -2,3 +2,6 @@
 # Meetup-Gpsolapur
 ![poster](https://github.com/meetupgpsolapur/Meetup-Gpsolapur/blob/master/gp%20solapur.jpg)
 collaborative learning platform
+
+## How To Contribute 
+ - [Guide to submitting your own tutorial](https://github.com/meetupgpsolapur/Meetup-Gpsolapur/blob/master/CONTRIBUTING.md)
