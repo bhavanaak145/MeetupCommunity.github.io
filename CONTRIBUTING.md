@@ -17,7 +17,7 @@ There are 5 golden steps to get involved -
 
 ## How can I contribute?
 
-Contributing towards DockerLabs is simple and all you need is follow the below golden rules -
+Contributing towards meetup Gpsolapur is simple and all you need is follow the below golden rules -
 
 * Say "Hi" to all Slack members with your short introduction
 * Search for your favourite Slack Channel and join accordingly.
