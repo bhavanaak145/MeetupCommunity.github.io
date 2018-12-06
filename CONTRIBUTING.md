@@ -45,5 +45,5 @@ But it is highly recommended to learn [GitHub](https://guides.github.com/activit
 
 ## License
 
-This project is licensed under the [MIT]() License.
+This project is licensed under the [MIT](https://github.com/meetupgpsolapur/Meetup-Gpsolapur/blob/master/LICENSE) License.
 
