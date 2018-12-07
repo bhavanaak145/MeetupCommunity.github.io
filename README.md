@@ -3,9 +3,9 @@
 ![poster](https://github.com/meetupgpsolapur/Meetup-Gpsolapur/blob/master/gp%20solapur.jpg)
 collaborative learning platform
 ## Linux
--[Linux](https://github.com/meetupgpsolapur/Linux/blob/master/README.md)<br>
+- [Linux](https://github.com/meetupgpsolapur/Linux/blob/master/README.md)<br>
 ## Docker
--[Docker](https://github.com/meetupgpsolapur/docker/blob/master/README.md)<br>
+- [Docker](https://github.com/meetupgpsolapur/docker/blob/master/README.md)<br>
 
 ## How To Contribute 
  - [Guide to submitting your own tutorial](https://github.com/meetupgpsolapur/Meetup-Gpsolapur/blob/master/CONTRIBUTING.md)
