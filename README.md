@@ -2,6 +2,8 @@
 ## Meetup-Gpsolapur
 ![poster](https://github.com/meetupgpsolapur/Meetup-Gpsolapur/blob/master/gp%20solapur.jpg)
 collaborative learning platform
+## C
+- [C](https://github.com/meetupgpsolapur/C-Programming/blob/master/Part-1_README.md)<br>
 ## Linux
 - [Linux](https://github.com/meetupgpsolapur/Linux/blob/master/README.md)<br>
 ## Docker
