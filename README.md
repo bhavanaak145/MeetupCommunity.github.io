@@ -5,7 +5,7 @@ collaborative learning platform
 ## Linux
 - [Linux](https://github.com/meetupgpsolapur/Linux/blob/master/README.md)<br>
 ## Docker
-- [Docker](https://github.com/meetupgpsolapur/docker/blob/master/README.md)<br>
+- [Docker](https://github.com/meetupgpsolapur/dockerlabs)<br>
 
 ## How To Contribute 
  - [Guide to submitting your own tutorial](https://github.com/meetupgpsolapur/Meetup-Gpsolapur/blob/master/CONTRIBUTING.md)
